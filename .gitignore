@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+src/main/resources/logback-local.xml
+src/main/resources/application-local.yml
